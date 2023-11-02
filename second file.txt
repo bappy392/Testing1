@@ -1,3 +1,6 @@
 This is data
 
 my first change
+
+friend changes
+friend another cnages
